@@ -30,7 +30,7 @@ def getTorrentData(request):
                 continue
 
             category = cols[0].find('a').text if cols[0].find('a') else ""
-            title = cols[1].find('a')['title'] if cols[1].find('a') else ""
+            title = cols[1].find('a').text if cols[1].find('a') else ""
             link = cols[1].find('a')['href'] if cols[1].find('a') else ""
             date = cols[2].get_text(strip=True)
             size = cols[4].get_text(strip=True)
