@@ -47,7 +47,7 @@ Example of output searching for ```interstellar```:
     {
         "id": 1,
         "category": "Video > HD - Movies",
-        "title": "Details for Interstellar (2014) (2014) 1080p BrRip x264 - YIFY",
+        "title": "Interstellar (2014) (2014) 1080p BrRip x264 - YIFY",
         "link": "https://thepiratebay10.info/torrent/11756968/Interstellar_(2014)_(2014)_1080p_BrRip_x264_-_YIFY",
         "date": "03-15-2015",
         "size": "2.26 GiB",
@@ -59,7 +59,7 @@ Example of output searching for ```interstellar```:
     {
         "id": 2,
         "category": "Video > UHD/4k - Movies",
-        "title": "Details for Interstellar.2014.PROPER.IMAX.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.Dual.YG⭐",
+        "title": "Interstellar.2014.PROPER.IMAX.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.Dual.YG⭐",
         "link": "https://thepiratebay10.info/torrent/71389010/Interstellar.2014.PROPER.IMAX.1080p.UHD.BluRay.x265.HDR.DV.DD_5.1.Dual_YG_",
         "date": "08-20-2023",
         "size": "4.21 GiB",
